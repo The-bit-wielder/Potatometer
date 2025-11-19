@@ -67,3 +67,5 @@ Instead of struggling to articulate "my executive function has completely evapor
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+##PS:Yes the readme was made with AI... no i couldnt focus enough to write it myself ... deal with it ... also potato status: MASHED
