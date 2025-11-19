@@ -1,4 +1,3 @@
-# 🥔 Potatometer 300 🥔
 
 *A neurodivergent communication device that quantifies brain function in potato units*
 
