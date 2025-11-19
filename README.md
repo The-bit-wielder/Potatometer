@@ -60,10 +60,14 @@ Instead of struggling to articulate "my executive function has completely evapor
    - Adafruit GFX Library
    - Wire Library (usually included with Arduino IDE)
 
-2. Upload the `Potato_Meter.ino` file to your ESP32
+2. Upload the `Potato_Meter.ino` file to your ESP32 (as of now should actualy work with every arduino supported MCU)
 
 3. Wire up the components according to the diagram above
 
+## Planned Features:
+- Network syncing across the internet
+- 3D printed potato enclosure
+- (maybe) TFT support for larger displays
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
